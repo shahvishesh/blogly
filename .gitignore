@@ -1,0 +1,9 @@
+node_modules
+.env
+
+# Ignore OS-specific and editor-specific files
+.DS_Store
+.vscode/
+
+# Ignore logs globally
+*.log
